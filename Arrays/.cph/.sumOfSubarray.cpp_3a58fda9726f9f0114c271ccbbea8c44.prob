@@ -1,0 +1,1 @@
+{"name":"Local: sumOfSubarray","url":"e:\\c++\\Arrays\\sumOfSubarray.cpp","tests":[{"id":1622443438537,"input":"5\n1 2 0 7 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\c++\\Arrays\\sumOfSubarray.cpp","group":"local","local":true}
