@@ -1,0 +1,1 @@
+{"name":"Local: largestNumber","url":"e:\\c++\\Arrays\\largestNumber.cpp","tests":[{"id":1622563222454,"input":"4\n2 43 765 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\c++\\Arrays\\largestNumber.cpp","group":"local","local":true}
